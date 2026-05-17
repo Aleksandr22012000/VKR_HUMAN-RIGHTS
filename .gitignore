@@ -1,0 +1,16 @@
+# Python / конвертер
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+md-to-docx/.venv/
+
+# Результаты конвертации
+*.docx
+!md-to-docx/assets/reference.docx
+*.preprocessed.md
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
