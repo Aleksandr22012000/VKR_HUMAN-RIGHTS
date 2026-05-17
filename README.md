@@ -10,7 +10,7 @@
 |-------|------------|
 | [`main`](https://github.com/Aleksandr22012000/VKR_HUMAN-RIGHTS/tree/main) | Основная (начальная загрузка) |
 | [`1-VER`](https://github.com/Aleksandr22012000/VKR_HUMAN-RIGHTS/tree/1-VER) | Текст ВКР, методички, конвертер, исследования |
-| [`1-VER-1`](https://github.com/Aleksandr22012000/VKR_HUMAN-RIGHTS/tree/1-VER-1) | Доработка главы 3 и черновики (**текущая**) |
+| [`1-VER-1`](https://github.com/Aleksandr22012000/VKR_HUMAN-RIGHTS/tree/1-VER-1) | Доработанные главы 2–3 (**текущая**) |
 
 Обновить список с GitHub: `git fetch --all --prune`
 
@@ -23,6 +23,7 @@
 | [МУ_к_ВКР_2025.md](МУ_к_ВКР_2025.md) | Методические рекомендации по ВКР (СПбУТУиЭ, 2025) |
 | [vkr_revision_requirements.md](vkr_revision_requirements.md) | Требования научного руководителя к доработке (май 2026) |
 | [deep-research-report.md](deep-research-report.md) | Исследование: институт уполномоченных в России (статистика, 2021–2024) |
+| [Глава_2_доработанная.md](Глава_2_доработанная.md) | Глава 2 (доработанная версия) |
 | [Глава_3_доработанная.md](Глава_3_доработанная.md) | Глава 3 (доработанная версия со статистикой) |
 | [md-to-docx/](md-to-docx/) | Конвертация Markdown → Word (.docx) по методическим требованиям СПбУТУиЭ |
 
